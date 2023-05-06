@@ -1,0 +1,5 @@
+LLD-logo_files/LLD-logo-files
+results
+feature_vectors_12.npy
+**/*.npy
+*.npy
