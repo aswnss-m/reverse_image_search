@@ -3,3 +3,4 @@ results
 feature_vectors_12.npy
 **/*.npy
 *.npy
+*.csv
